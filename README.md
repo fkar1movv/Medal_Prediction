@@ -1,7 +1,7 @@
 # Medal_Prediction
 Beginner Machine Learning Project
 
-I have tried out this project for learning Machine learning with projects.
+I have tried out this project for learning Machine Learning with projects.
 
 Here are the resources:
 
